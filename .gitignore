@@ -1,0 +1,15 @@
+*.pyc
+__pycache__/
+.VSCodeCounter
+.vscode/
+.mypy_cache/
+.pytest_cache/
+.venv/
+temp/
+tmp/
+*.bk
+mock*.py
+*.sqlite3
+deployment/archives/
+deployment/middlewares/data 
+*.tar.gz

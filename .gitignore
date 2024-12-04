@@ -13,3 +13,4 @@ mock*.py
 deployment/archives/
 deployment/middlewares/data 
 *.tar.gz
+unstaged.txt
